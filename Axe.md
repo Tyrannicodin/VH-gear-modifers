@@ -1,8 +1,4 @@
-## Implicit
-### Base attack damage
-#### Tier 1
-- Level: 0 - 30
-- Relative probability: 10
+# Axe
 ## Implicit
 ### Base attack damage
 #### Tier 1
