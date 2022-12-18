@@ -1,3 +1,4 @@
+# Leggings
 ## Implicit
 ### Base armor
 #### Tier 1
