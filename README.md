@@ -12,4 +12,4 @@ This repository contains a version of the deault configuration files that is sho
 - [Sword](/Sword.md)
 - [Tenos idol](/Tenos_idol.md)
 - [Velara idol](/Velara_idol.md)
-- [Wendarr_idol](/Wendarr_idol.md)
+- [Wendarr idol](/Wendarr_idol.md)
