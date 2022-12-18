@@ -1,3 +1,4 @@
+# Sword
 ## Implicit
 ### Base attack damage
 #### Tier 1
