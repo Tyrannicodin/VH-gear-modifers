@@ -1,3 +1,4 @@
+# Boots
 ## Implicit
 ### Base armor
 #### Tier 1
