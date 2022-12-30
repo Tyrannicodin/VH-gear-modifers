@@ -1,6 +1,8 @@
 # VH-gear-modifers
 This repository contains a version of the deault configuration files that is shorter and should be easier to read. The next step will be assigning points to each
 
+## This was BEFORE the armoury was released, it is slightly innacurate
+
 ## Currently completed documents
 - [Axe](/Axe.md)
 - [Boots](/Boots.md)
